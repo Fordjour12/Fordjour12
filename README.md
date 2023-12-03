@@ -1,5 +1,6 @@
-### Hi there 👋
-
+## Hi there 👋
+- 🔭 I’m currently working on Laundry Service App
+- 🌱 I’m currently learning Go
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fordjour12&show_icons=true&theme=tokyonight)
 
