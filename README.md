@@ -14,6 +14,8 @@
 ### Stats so far
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fordjour12&show_icons=true&theme=tokyonight)
 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 <!--
 **Fordjour12/Fordjour12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
